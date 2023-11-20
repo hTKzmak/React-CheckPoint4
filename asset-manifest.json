@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd2edfd9.css",
-    "main.js": "/static/js/main.012509fc.js",
-    "index.html": "/index.html",
-    "main.cd2edfd9.css.map": "/static/css/main.cd2edfd9.css.map",
-    "main.012509fc.js.map": "/static/js/main.012509fc.js.map"
+    "main.css": "/React-CheckPoint4/static/css/main.cd2edfd9.css",
+    "main.js": "/React-CheckPoint4/static/js/main.012509fc.js",
+    "index.html": "/React-CheckPoint4/index.html",
+    "main.cd2edfd9.css.map": "/React-CheckPoint4/static/css/main.cd2edfd9.css.map",
+    "main.012509fc.js.map": "/React-CheckPoint4/static/js/main.012509fc.js.map"
   },
   "entrypoints": [
     "static/css/main.cd2edfd9.css",
